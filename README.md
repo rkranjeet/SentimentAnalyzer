@@ -7,5 +7,5 @@
 ### Tech Stack Used
   * Requests - To Make HTTPS Get Request for Web Pages.
   * BeautifulSoup - To Parse HTML from HTTPS response collected.
+  * TextBlob - To Determine Sentiment of Reviews in the Form of Polarity. 
   * matplotlib - For Graphical Representation.
-  
