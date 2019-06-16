@@ -1,4 +1,4 @@
-#SentimentAnalyzer
+# SentimentAnalyzer
 ## A python Script to Scrap Reviews from [cnet.com](https://www.cnet.com/) and Finding customer's Sentiment
 ### Features
   * Scrap's Multiple web pages and parses relavent data.(Here review of Mobile phones are scraped).
